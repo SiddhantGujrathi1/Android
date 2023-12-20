@@ -37,7 +37,6 @@ Dive into the world of dynamic user interfaces with my latest GitHub repository!
 
 🛠️ **Tech Stack:**
 - Android Studio
-- Kotlin
 - Lottie Library
 
 📝 **How to Use:**
