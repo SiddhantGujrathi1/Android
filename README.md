@@ -1,4 +1,4 @@
-"✨ Animated Text Showcase App 📱💬
+✨ Animated Text Showcase App 📱💬
 
 Dive into the world of dynamic user interfaces with my latest GitHub repository! 🚀 I've crafted a simple yet impactful Android app that demonstrates the magic of animations applied to text.
 
